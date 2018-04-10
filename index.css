@@ -1,0 +1,38 @@
+body {
+  background-color: #000000;
+}
+#name{
+  font-family:'Pacifico'
+}
+#Occupation{
+  font-family:'Lobster'
+}
+
+.img-margin{
+  margin-left:25%;
+  margin-right:25%;
+  margin-bottom:150px;
+}
+#content{
+  width:25%;
+  margin-left:0px;
+  margin-bottom:20px;
+}
+#content-heading{
+  margin-left:60px;
+  color: #008080;
+  font-family:Arial Black;
+}
+.heading{
+  margin-left:0px;
+  color: #008080;
+  font-family:Arial Black;
+}
+
+p{
+  font-family:'Poor Story';
+  color:white;
+}
+#his-work{
+  color:green;
+}
